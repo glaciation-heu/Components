@@ -8,6 +8,12 @@ T2.2 - Component Realization
 - Root directory representing all components
 - README.md              
   - General overview and instructions
+- /AI Movement Engine/
+- /Security/
+- /Energy/
+- /Data management services/
+- /Observability services/
+- /Management Services/ 
 - /component-1/          
   - Directory for component-1
   - README.md          
