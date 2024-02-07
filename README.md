@@ -8,12 +8,17 @@ T2.2 - Component Realization
 - Root directory representing all components
 - README.md              
   - General overview and instructions
+- /Glaciation Kernel/
+- /DKG/
 - /AI Movement Engine/
 - /Security/
 - /Energy/
 - /Data management services/
 - /Observability services/
-- /Management Services/ 
+- /Management Services/
+- /Scripts/
+- /Microservices/
+- /UIX/
 - /component-1/          
   - Directory for component-1
   - README.md          
